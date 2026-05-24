@@ -4,11 +4,7 @@ Photo Album Management System A web-based application designed to seamlessly man
 
 Source Code Repository: https://github.com/ranieldomingo25/Assignment-7-photo_album_project.git
 
-✨ Key Features Studio Node Initialization: Create and isolate custom studio repositories for distinct asset collections.
-
-Secure Infrastructure: Built-in workspace authorization and secure session management.
-
-Django Admin Integration: Dedicated administrative panel control for granular database and registry management.
+✨
 
 Cloud Repository Arrays: Seamless asset delivery and storage optimization powered by Cloudinary.
 
