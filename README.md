@@ -2,7 +2,7 @@ Photo Album Management System A web-based application designed to seamlessly man
 
 🚀 Live Links Live Application: https://photo-album-management-system-k13u.onrender.com
 
-Source Code Repository: https://github.com/Joyce24-ace/Photo-_Album_Management_System.git
+Source Code Repository: https://github.com/ranieldomingo25/Assignment-7-photo_album_project.git
 
 ✨ Key Features Studio Node Initialization: Create and isolate custom studio repositories for distinct asset collections.
 
